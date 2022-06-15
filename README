@@ -26,3 +26,5 @@ sudo dnf install mesa-vulkan-devel vulkan-validation-layers-devel
 sudo dnf install glfw-devel
 sudo dnf install glm-devel
 sudo dnf install glslc
+sudo dnf install g++
+
