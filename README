@@ -18,3 +18,11 @@ sudo apt install build-essential
 sudo apt install libxxf86vm-dev libxi-dev
 
 
+OR
+
+sudo dnf install vulkan-tools
+sudo dnf install vulkan-loader-devel
+sudo dnf install mesa-vulkan-devel vulkan-validation-layers-devel
+sudo dnf install glfw-devel
+sudo dnf install glm-devel
+sudo dnf install glslc
